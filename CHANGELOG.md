@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/jrhart08/npm-talk-standard-version/compare/v1.1.0...v1.1.1) (2019-12-04)
+
+
+### Bug Fixes
+
+* setting react as peerDependency ([ccf5cc1](https://github.com/jrhart08/npm-talk-standard-version/commit/ccf5cc199ad1d8d404440884284655985cebb8eb))
+
 ## [1.1.0](https://github.com/jrhart08/npm-talk-standard-version/compare/v1.0.2...v1.1.0) (2019-12-04)
 
 
