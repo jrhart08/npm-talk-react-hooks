@@ -1,10 +1,11 @@
 import { useEffect } from 'react';
-import cowsay from 'cowsay';
+
+const poorMansCowsay = (text) => `The cow says "${text}"`;
 
 export default (dependencies) => useEffect(() => {
-  cowsay.say({ text: 'PHP sucks' });
+  console.log(poorMansCowsay('PHP sucks!'));
 
   return () => {
-    cowsay.say({ text: 'And Ruby does too!' });
+    console.log(poorMansCowsay('And Ruby does too!'));
   };
 }, dependencies);
