@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/jrhart08/npm-talk-standard-version/compare/v1.1.1...v1.1.2) (2019-12-04)
+
+
+### Bug Fixes
+
+* doing it the boring way ([00ea4de](https://github.com/jrhart08/npm-talk-standard-version/commit/00ea4de7dce6f1b1ff3801f8046d4ce33559c9ad))
+* fixing build:ci ([d8bc97a](https://github.com/jrhart08/npm-talk-standard-version/commit/d8bc97a86a83dfdb57c7357ed3ad7813f1f06d4e))
+* removing build infinite loop ([e5fa934](https://github.com/jrhart08/npm-talk-standard-version/commit/e5fa934e1855ec4f60c49174eb2b3873c11daa1e))
+
 ### [1.1.1](https://github.com/jrhart08/npm-talk-standard-version/compare/v1.1.0...v1.1.1) (2019-12-04)
 
 
