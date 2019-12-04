@@ -1,5 +1,5 @@
 {
-  "name": "@jrh/npm-talk-standard-version",
+  "name": "@jrh/npm-talk-react-hooks",
   "version": "1.2.1",
   "description": "",
   "main": "lib/index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrhart08/npm-talk-standard-version.git"
+    "url": "git+https://github.com/jrhart08/npm-talk-react-hooks.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jrhart08/npm-talk-standard-version/issues"
+    "url": "https://github.com/jrhart08/npm-talk-react-hooks/issues"
   },
-  "homepage": "https://github.com/jrhart08/npm-talk-standard-version#readme",
+  "homepage": "https://github.com/jrhart08/npm-talk-react-hooks#readme",
   "dependencies": {
     "lodash": "^4.17.15",
     "react": "^16.8.0"
