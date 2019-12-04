@@ -9,8 +9,9 @@
   "scripts": {
     "clean": "rimraf lib",
     "build": "babel ./src --out-dir ./lib",
-    "release": "standard-version",    
-    "build:ci": "npm-run-all --serial clean build release publish"
+    "release": "standard-version",
+    "pub": "npm run publish",    
+    "build:ci": "npm-run-all --serial clean build release pub"
   },
   "repository": {
     "type": "git",
