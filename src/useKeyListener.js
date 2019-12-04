@@ -7,9 +7,9 @@ import castArray from 'lodash/castArray';
  */
 export default (keys, eventHandler, dependencies = []) => (
   useEffect(() => {
-    if (typeof window === 'undefined') {
-      return null;
-    }
+    // if (typeof window === 'undefined') {
+    //   return null;
+    // }
 
     const keyArray = castArray(keys);
 
