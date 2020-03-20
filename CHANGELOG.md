@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/jrhart08/npm-talk-react-hooks/compare/v1.3.0...v1.5.0) (2020-03-20)
+
+
+### Features
+
+* adding cool feature ([1d68d78](https://github.com/jrhart08/npm-talk-react-hooks/commit/1d68d78dd722268f968d38f11a05cab27ac8302f))
+* minor version bump ([4edaddb](https://github.com/jrhart08/npm-talk-react-hooks/commit/4edaddbc7c389cc8be6b9172f945c64d1dd629eb))
+
+
+### Bug Fixes
+
+* fixed useKeyListener ([3f9e8d5](https://github.com/jrhart08/npm-talk-react-hooks/commit/3f9e8d53edbce76f3818d397eee468aa286105f8))
+
 ## [1.4.0](https://github.com/jrhart08/npm-talk-react-hooks/compare/v1.3.0...v1.4.0) (2020-03-20)
 
 
