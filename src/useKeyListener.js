@@ -2,6 +2,8 @@ import { useEffect } from 'react';
 import includes from 'lodash/includes';
 import castArray from 'lodash/castArray';
 
+console.log('Thank you for using useKeyListener!');
+
 /**
  * Usage: `useKeyListener(['Esc', 'Escape'], closeModal);`
  */
