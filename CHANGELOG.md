@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/jrhart08/npm-talk-react-hooks/compare/v1.5.2...v1.6.0) (2020-03-20)
+
+
+### Features
+
+* adding cool feature ([4796a91](https://github.com/jrhart08/npm-talk-react-hooks/commit/4796a9193fcc66fe53035a113aa2b582c0b3d627))
+
 ### [1.5.2](https://github.com/jrhart08/npm-talk-react-hooks/compare/v1.5.1...v1.5.2) (2020-03-20)
 
 ### [1.5.1](https://github.com/jrhart08/npm-talk-react-hooks/compare/v1.5.0...v1.5.1) (2020-03-20)
