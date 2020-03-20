@@ -7,7 +7,6 @@ import castArray from 'lodash/castArray';
  */
 export default (keys, eventHandler, dependencies = []) => (
   useEffect(() => {
-    throw Error('Something broke!');
     if (typeof window === 'undefined') {
       return null;
     }
